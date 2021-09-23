@@ -6,8 +6,6 @@
 	  <link rel="icon" href="https://d1nhio0ox7pgb.cloudfront.net/_img/v_collection_png/64x64/shadow/books_blue_add.png">
       <style>
 
- 
-	
             body{
                 font-family: "Arial", sans-serif;
                 background-image:linear-gradient(to right bottom, rgba(79, 68, 129,0.5), rgba(48, 185, 100,0.5));
